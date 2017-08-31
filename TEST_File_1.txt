@@ -1,0 +1,6 @@
+IDS	TestSample_1	TestSample_2	TestSample_3	TestSample_4	TestSample_5
+SNP_2	AB	AA	AB	AA	AB
+SNP_3	AB	AA	AA	AA	AA
+SNP_4	BB	AB	AB	AA	AA
+SNP_1	AA	AB	AA	AB	AA
+SNP_5	AB	AB	AB	AA	AA
