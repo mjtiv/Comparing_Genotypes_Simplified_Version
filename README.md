@@ -1,12 +1,11 @@
-# Comparing_Genotypes_Simplified_Version
+# Comparing_Two_Genotype_Files_(Simplified_Version)
+Code Written by M. Joseph Tomlinson IV
+
 Compares to very simplified genotype files for concordance between samples and SNPs.
 
 Code was Developed in the Abasht Laboratory at the University of Delaware under
 the supervision of Dr. Behnam Abasht
 website: http://canr.udel.edu/faculty/behnam-abasht/
-
-Program: Comparing Two Simplified Genotype Files for Concordance
-Code Written by M. Joseph Tomlinson IV
 
 Program Files Provided to Run Code:
 comparing_files_code.py
